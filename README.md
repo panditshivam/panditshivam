@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Dwivedi</h1>
 <h3 align="center">Foodie, Lazy, Sachin's Die-Heart Fan</h3>
+<img align="right" width=400 alt="coding" src=https://media.tenor.com/jjMcj2k7U5MAAAAd/gojo-gojo-satoru.gif>
 
-<p align="left"> <img src="https://media.tenor.com/jjMcj2k7U5MAAAAd/gojo-gojo-satoru.gif" alt="panditshivam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panditshivam&label=Profile%20views&color=0e75b6&style=flat" alt="panditshivam" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning adaptation in 3D space**
 
