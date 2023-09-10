@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Dwivedi</h1>
 <h3 align="center">Foodie, Lazy, Sachin's Die-Heart Fan</h3>
 
-<p align="left"> <img src="https://tenor.com/en-IN/view/gojo-gojo-satoru-jujutsu-kaisen-special-grade-jjk-gif-19191021" alt="panditshivam" /> </p>
+<p align="left"> <img src="https://media.tenor.com/jjMcj2k7U5MAAAAd/gojo-gojo-satoru.gif" alt="panditshivam" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning adaptation in 3D space**
 
