@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Cricket**
 
-- 📫 How to reach me **shivam@kritrimlabs.com**
+- 📫 How to reach me **shivam.dwivedi@pulastya.ai**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
