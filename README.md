@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Cricket**
 
-- 📧 How to reach me **shivam.dwivedi@outlook.com**
-
 ---
 
 ## 📚 Publications
