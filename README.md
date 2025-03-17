@@ -1,46 +1,77 @@
 <h1 align="center">Hi 👋, I'm Shivam Dwivedi</h1>
-<h3 align="center">Foodie, Lazy, Sachin's Die-Heart Fan</h3>
-<img align="right" width=400 alt="coding" src=https://media.tenor.com/HAhAxKV1mQMAAAAC/jujutsu-kaisen0-satoru-gojo.gif>
+<h3 align="center">Foodie, Lazy, Sachin's Die-Hard Fan</h3>
+<img align="right" width=400 alt="coding" src="https://media.tenor.com/HAhAxKV1mQMAAAAC/jujutsu-kaisen0-satoru-gojo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditshivam&label=Profile%20views&color=0e75b6&style=flat" alt="panditshivam" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning adaptation in 3D space**
+- 🔬 I’m currently working on **Machine Learning adaptation in 3D space**
 
-- 📝 I regularly write articles on [https://medium.com/@panditshivam](https://medium.com/@panditshivam)
+- 📝 I regularly write articles on [Medium](https://medium.com/@panditshivam)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Cricket**
 
-- 📫 How to reach me **shivam.dwivedi@pulastya.ai**
+- 📧 How to reach me **shivam.dwivedi@outlook.com**
 
-### Blogs posts
+---
+
+## 📚 Publications
+- **AI-Driven Healthcare Solutions** – Research in AI-powered ophthalmology and early disease detection.
+- **Credit Underwriting with AI** – Explainable ML models for financial risk assessment.
+- **Generative AI for Business** – Exploring AI's role in automating customer service and decision-making.
+
+---
+
+## 🌟 Experience
+### **AI Consultant - SDLC Corp**
+- Building scalable AI-driven solutions, integrating **ONNX Runtime, Kafka, and Java Spring Boot**.
+- Optimizing ML model inference pipelines for high-throughput applications.
+
+### **AVP - Data Science – Listed NBFC**
+- Led AI initiatives in **credit risk modeling, fraud detection, and time-series forecasting**.
+- Developed a loan underwriting AI using **XGBoost and deep learning models**.
+
+### **Sr. ML Engineer – Concentrix Innovation Labs**
+- Built **NLP chatbots** and **computer vision solutions** for automation.
+- Worked on **real-time streaming data with Kafka & Flink**.
+
+### **ML Engineer – Techsophy**
+- Designed **AI-driven IT support systems** and **healthcare AI applications**.
+- Developed generative AI models for **text and speech synthesis**.
+
+### **AI Consultant – SDLC Corp**
+- Designed **AI-driven IT support systems**
+---
+
+## 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/panditshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="panditshivam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/panditshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panditshivam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shivampandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shivampandit" height="30" width="40" /></a>
-<a href="https://kaggle.com/shivampandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivampandit" height="30" width="40" /></a>
 <a href="https://medium.com/@panditshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@panditshivam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kritrimlabsai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kritrimlabsai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivam_pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivam_pandit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivam_pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam_pandit" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shivampandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shivampandit" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/shivam_pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="shivam_pandit" height="30" width="40" /></a>
-<a href="/medium.com/feed/@panditshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="medium.com/feed/@panditshivam" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</p>
+
+---
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/panditshivam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="panditshivam" /></a></p><br><br>
 
-<p align="left" ><img src=https://github-readme-stats.vercel.app/api/top-langs?username=panditshivam&show_icons=true alt=panditshivam /></p>
+<p align="left"><img src=https://github-readme-stats.vercel.app/api/top-langs?username=panditshivam&show_icons=true alt=panditshivam /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panditshivam&show_icons=true&locale=en" alt="panditshivam" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panditshivam&" alt="panditshivam" /></p> &locale=en&layout=compact-->
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=panditshivam&show_icons=true alt=panditshivam /> </p>
