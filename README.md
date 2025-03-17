@@ -15,9 +15,11 @@
 ---
 
 ## 📚 Publications
-- **AI-Driven Healthcare Solutions** – Research in AI-powered ophthalmology and early disease detection.
-- **Credit Underwriting with AI** – Explainable ML models for financial risk assessment.
-- **Generative AI for Business** – Exploring AI's role in automating customer service and decision-making.
+- **[ML Classifier Explanations with Diversified Prototype Counterfactuals](https://link.springer.com/book/9783031472237)** – Springer 2023.
+- **[KEDOP: Keratoconus Early Detection of Progression Using Tomography Images](https://pubmed.ncbi.nlm.nih.gov/35343267/)** – European Journal of Ophthalmology 2022.
+- **[Impact of COVID-19 Ripples on Cataract Surgical Care](https://ascrs.confex.com/ascrs/22am/meetingapp.cgi/Paper/84958)** – ASCRS 2022.
+- **[Early Detection of Keratoconus Progression with Deep Learning on Tomography Images](https://journals.sagepub.com/doi/10.1177/11206721221087566?icid=int.sj-full-text.citing-articles.1)** – World Cornea Congress 2020.
+- **Identifying Correlation Between Frontoparietal Networks and Other Cognitive Networks in Autism** – Tencon 2019.
 
 ---
 
@@ -28,7 +30,7 @@
 
 ### **AVP - Data Science – Listed NBFC**
 - Led AI initiatives in **credit risk modeling, fraud detection, and time-series forecasting**.
-- Developed a loan underwriting AI using **XGBoost and deep learning models**.
+- Developed a loan underwriting AI using deep learning models**.
 
 ### **Sr. ML Engineer – Concentrix Innovation Labs**
 - Built **NLP chatbots** and **computer vision solutions** for automation.
