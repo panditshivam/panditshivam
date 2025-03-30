@@ -22,7 +22,7 @@
 ---
 
 ## 🌟 Experience
-### **AI Consultant - SDLC Corp**
+### ****
 - Building scalable AI-driven solutions, integrating **ONNX Runtime, Kafka, and Java Spring Boot**.
 - Optimizing ML model inference pipelines for high-throughput applications.
 
