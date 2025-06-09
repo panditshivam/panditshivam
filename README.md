@@ -26,7 +26,8 @@
 - Building scalable AI-driven solutions, integrating **ONNX Runtime, Kafka, and Java Spring Boot**.
 - Optimizing ML model inference pipelines for high-throughput applications.
 
-### **AVP - Data Science – Listed NBFC**
+### **Founder - Pulastya AI**
+- Bulding Agentic AI solutions
 - Led AI initiatives in **credit risk modeling, fraud detection, and time-series forecasting**.
 - Developed a loan underwriting AI using deep learning models**.
 
