@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Shivam Dwivedi - Itachi-inspired AI engineering banner</title>
+  <desc id="desc">A dark crimson banner with a red moon, shinobi silhouette, animated crows, and machine-learning graph motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050609"/>
+      <stop offset=".45" stop-color="#10090d"/>
+      <stop offset="1" stop-color="#23070d"/>
+    </linearGradient>
+    <radialGradient id="moon" cx=".5" cy=".45" r=".58">
+      <stop offset="0" stop-color="#ff5267"/>
+      <stop offset=".48" stop-color="#d51632"/>
+      <stop offset="1" stop-color="#6d0717"/>
+    </radialGradient>
+    <linearGradient id="redline" x1="0" x2="1">
+      <stop stop-color="#7b0719" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ff244b"/>
+      <stop offset="1" stop-color="#7b0719" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#d51632" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <path id="crow" d="M0 7C9-2 19-2 29 7 22 4 17 7 14 12 10 7 6 4 0 7Z"/>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <ellipse cx="245" cy="170" rx="145" ry="145" fill="#d51632" opacity=".18" filter="url(#soft)"/>
+  <circle cx="245" cy="164" r="112" fill="url(#moon)" filter="url(#glow)"/>
+  <circle cx="245" cy="164" r="89" fill="none" stroke="#ff7186" stroke-opacity=".22"/>
+  <path d="M160 206c25-12 52-17 82-17 37 0 70 9 101 28-14 12-21 30-22 54H165c0-25-7-46-21-62 5 0 11-1 16-3Z" fill="#030406"/>
+  <path d="M198 133c8-36 29-57 48-57 21 0 43 23 49 59l-10 19 9 39c-15 15-31 22-49 22-19 0-36-8-50-24l10-37Z" fill="#050609"/>
+  <path d="M213 142c11-7 21-9 31-5M277 142c-11-7-21-9-31-5" fill="none" stroke="#ef2545" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="225" cy="146" r="4" fill="#ff3658" filter="url(#glow)"/>
+  <circle cx="266" cy="146" r="4" fill="#ff3658" filter="url(#glow)"/>
+  <path d="M211 112c14-18 31-27 52-27 16 0 29 5 40 14-18-5-34-3-48 6-16-3-31-1-44 7Z" fill="#020304"/>
+  <path d="M176 270h136" stroke="url(#redline)" stroke-width="2"/>
+
+  <g fill="#090a0d" opacity=".96">
+    <g transform="translate(45 68) scale(1.15)"><use href="#crow"/></g>
+    <g transform="translate(90 118) scale(.72)"><use href="#crow"/></g>
+    <g transform="translate(362 70) scale(.9) rotate(8)"><use href="#crow"/></g>
+    <g transform="translate(330 235) scale(.65) rotate(-12)"><use href="#crow"/></g>
+    <g transform="translate(1085 62) scale(1.1) rotate(-8)"><use href="#crow"/></g>
+    <g transform="translate(1118 122) scale(.7)"><use href="#crow"/></g>
+    <g transform="translate(1042 265) scale(.85) rotate(12)"><use href="#crow"/></g>
+  </g>
+
+  <g fill="#15171d" opacity=".8">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="420 292; 520 215; 650 145" dur="7s" repeatCount="indefinite"/>
+      <use href="#crow" transform="scale(.65)"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="1180 285; 1020 210; 875 110" dur="8s" repeatCount="indefinite"/>
+      <use href="#crow" transform="scale(.8)"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="380 330; 500 270; 720 205" dur="9s" repeatCount="indefinite"/>
+      <use href="#crow" transform="scale(.45)"/>
+    </g>
+  </g>
+
+  <g opacity=".35" stroke="#ef2447" fill="none">
+    <path d="M402 279 472 247 532 271 605 222 677 249 746 203 827 230 903 181 1006 211"/>
+    <circle cx="472" cy="247" r="4" fill="#ef2447"/><circle cx="605" cy="222" r="4" fill="#ef2447"/>
+    <circle cx="746" cy="203" r="4" fill="#ef2447"/><circle cx="903" cy="181" r="4" fill="#ef2447"/>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="420" y="112" fill="#f4f5f7" font-size="54" font-weight="800" letter-spacing="1">SHIVAM DWIVEDI</text>
+    <text x="423" y="153" fill="#ff3658" font-size="21" font-weight="650" letter-spacing="4">MACHINE LEARNING ARCHITECT</text>
+    <rect x="423" y="179" width="590" height="2" fill="url(#redline)"/>
+    <text x="423" y="219" fill="#b9bbc3" font-size="20">GraphRAG · XAI · Decision Intelligence · Production ML</text>
+    <text x="423" y="257" fill="#777b86" font-size="16" letter-spacing="1.2">BUILDING SYSTEMS THAT SEE BEYOND THE OBVIOUS</text>
+  </g>
+
+  <path d="M24 316H1176" stroke="#d51632" stroke-opacity=".32"/>
+  <rect x="1" y="1" width="1198" height="338" rx="23" fill="none" stroke="#ef2447" stroke-opacity=".25" stroke-width="2"/>
+</svg>
