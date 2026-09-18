@@ -188,11 +188,3 @@ Research focus: explainable multimodal AI, clinically safe decision support, and
 </p>
 
 ---
-
-## GitHub signal
-
-<p align="center">
-  <img src="metrics.svg" alt="Shivam Dwivedi's GitHub repository and language metrics" width="72%" />
-</p>
-
-<p align="center"><em>Quiet execution. Measurable impact. Systems built to last.</em></p>
