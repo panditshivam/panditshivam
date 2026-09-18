@@ -23,7 +23,7 @@ My work spans the complete ML lifecycle: business problem formulation, feature e
 
 - 🔭 Building production AI systems that connect data science, architecture, and measurable business outcomes
 - 🧠 Exploring GraphRAG, call-graph intelligence, explainable AI, multimodal learning, and trustworthy ML
-- 🎓 Pursuing a Ph.D. at IIT Patna in Explainable Multimodal AI for clinically safe decision-support systems
+- 🎓 Pursuing a Ph.D. at IIT / Lincoln University in Explainable Multimodal AI for clinically safe decision-support systems
 - ✍️ Writing about machine learning and generative AI on [Medium](https://medium.com/@panditshivam)
 - 💬 Ask me about ML system design, applied data science, GenAI, NLP, computer vision, or MLOps
 
@@ -129,7 +129,7 @@ My work spans the complete ML lifecycle: business problem formulation, feature e
 
 ## Education
 
-### Ph.D. — IIT Patna *(ongoing)*
+### Ph.D. — IIT / Lincoln University *(ongoing)*
 **Explainable Multimodal AI / XAI for clinically safe decision-support systems**
 
 Research focus: explainable multimodal AI, clinically safe decision support, and interpretable AI systems for real-world healthcare applications.
