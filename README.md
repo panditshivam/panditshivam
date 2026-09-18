@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/itachi-ai-banner.svg" alt="Shivam Dwivedi - Machine Learning Architect" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Shivam Dwivedi 👋</h1>
 <h3 align="center">Principal Data Scientist · Machine Learning Solution Architect · Applied AI & ML Engineering Leader</h3>
 
@@ -185,6 +189,10 @@ Research focus: explainable multimodal AI, clinically safe decision support, and
 
 ---
 
+## GitHub signal
+
 <p align="center">
-  <img src="metrics.svg" alt="GitHub metrics with private contributions" />
+  <img src="metrics.svg" alt="Shivam Dwivedi's GitHub repository and language metrics" width="72%" />
 </p>
+
+<p align="center"><em>Quiet execution. Measurable impact. Systems built to last.</em></p>
