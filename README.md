@@ -52,7 +52,7 @@ My work spans the complete ML lifecycle: business problem formulation, feature e
 **Customer Attrition & Enterprise Churn Modeling**
 
 - Designed a leakage-safe customer attrition model using 31 behavioral, volume, product-mix, quote, and lead-time inputs over four-quarter observation windows to predict 50%+ next-quarter volume decline.
-- Converted churn probabilities into revenue and volume at risk, intervention priorities, and controlled validation plans.
+- Converted churn probabilities into revenue and volume at risk, identifying approximately **2,430 significant-reduction customers per quarter** representing roughly **243M T12M lbs**, and translated the scores into intervention priorities and controlled validation plans.
 - Built an enterprise portfolio churn framework combining financial, contractual, organizational, people, and engagement signals into entity-level predictors of relationship risk.
 
 **Experimentation & Economic Signal Intelligence**
@@ -64,8 +64,9 @@ My work spans the complete ML lifecycle: business problem formulation, feature e
 
 - Architected an organization-wide Quality Intelligence platform that converts multi-tool SARIF evidence into deterministic, explainable repository-, module-, and function-level quality scores and trends.
 - Designed graph-based extensions for semantic redundancy, localized call-graph structure, AI-generated-code assessment, and completeness-aware scoring that prevents failed analyzers from inflating quality.
-- Architected and benchmarked an enterprise GraphRAG system combining entity-relationship graphs, semantic traversal, and vector retrieval for grounded multi-hop reasoning and source traceability.
-- Led architecture for a production content-intelligence platform on GCP, combining external trends, entity intelligence, hybrid retrieval, recommendations, and geospatial analytics across a multi-million-article corpus.
+- Architected and benchmarked an enterprise GraphRAG system combining entity-relationship graphs, semantic traversal, and vector retrieval; achieved **89% multi-hop fact recovery versus 53% for a leading enterprise benchmark** and **2.9× faster average inference** across **22 ground-truth questions in six categories**.
+- Improved internal GraphRAG evaluation quality from **43.1% to 54.6%** while reducing confirmed hallucinations to **zero** through retrieval, traversal, and grounding refinements.
+- Led architecture for a production content-intelligence platform on GCP, combining external trends, entity intelligence, hybrid retrieval, recommendations, and geospatial analytics across a **multi-million-article corpus**, reducing manual editorial curation by **50%+**.
 
 ### Pulastya AI — Co-Founder & CTO
 **June 2022 – February 2025 · India / UK**
@@ -75,22 +76,24 @@ My work spans the complete ML lifecycle: business problem formulation, feature e
 - Co-founded and engineered a mobile-to-mobile, real-time voice translation platform with approximately 0.45-second latency, supporting 3,000+ bilingual calls during pilot programs.
 - Built multilingual translation systems that achieved 20% higher fluency across Hindi, Tamil, Bengali, and Gujarati against baseline benchmarks.
 - Led ONDC and Bhashini integrations and voice-assisted merchant onboarding workflows, reducing listing time by 40% and supporting 500+ sellers.
-- Deployed multilingual AI for Parliamentary Archives covering 1M+ records and enterprise voice workflows processing 50K+ minutes monthly.
+- Deployed multilingual AI for Parliamentary Archives covering **1M+ records** and enterprise voice workflows processing **50K+ minutes per month**, contributing approximately **$1.5M in annual savings**.
 
 **BFSI Decision Intelligence for a Confidential Client**
 
-- Led the architecture of an AI-powered credit-underwriting platform designed to support millions of loan applications across multiple lending products.
-- Developed ensemble risk models using long-term loan history, macroeconomic indicators, and behavioral signals to improve credit-risk prediction and decision quality.
-- Designed counterfactual decisioning approaches that generated actionable paths for eligible rejected applicants while retaining explainability and policy guardrails.
-- Built customer reactivation and lead-generation systems using LLM-assisted speech analysis, segmentation, and real-time Kafka analytics to improve conversion, recovery efficiency, and personalized outreach.
-- Delivered a multilingual customer and representative assistant integrating conversational AI, OCR, and document verification across web, mobile, and voice channels.
-- Designed scalable Docker- and Kafka-based deployment patterns on AWS for high-volume, peak-season workloads.
+- Led the architecture of an AI-powered credit-underwriting platform processing **7M+ loan applications annually**, shortening approval cycles by **45%** and reducing processing errors by **20%**.
+- Developed ensemble risk models using **10+ years of loan history**, macroeconomic indicators, and behavioral signals, improving risk-prediction accuracy by **30%**.
+- Designed a GenAI-assisted counterfactual decisioning approach that helped eligible rejected applicants move toward approvable profiles, increasing approval rates by **18%** and unlocking **$20M+ in estimated annual revenue**.
+- Reduced default rates by **2.5 percentage points** and underwriting costs by **10%**, generating approximately **$3.5M in annual savings**, while unstructured-data analysis improved fraud-detection accuracy by **35%**.
+- Built an LLM- and speech-analysis-driven customer reactivation framework that increased conversion from approximately **3% to 19.8%** and delivered **$15M+ in annual savings**.
+- Enabled Kafka-based recovery and lead-generation analytics that improved recovery efficiency by **25%**, lead-to-conversion rates by **40%**, and customer engagement by **30%**.
+- Delivered a multilingual customer and representative assistant handling **1.5M+ daily interactions**, with OCR-based document extraction at **98% accuracy**; reduced query-resolution time by **40%**, improved customer satisfaction by **25%**, and increased cross-channel adoption by **50%**.
+- Added computer-vision document checks that reduced onboarding fraud cases by **20%** and deployed Docker-, Kafka-, and AWS-based infrastructure capable of handling **25× peak traffic**, maintaining **99.99% uptime** while lowering infrastructure cost by **35%**.
 
 **Healthcare, Enterprise AI & Applied Research**
 
-- Delivered a voice-enabled health agent for elderly care, supporting 2,000+ seniors and reducing manual caregiver workload.
-- Developed predictive flu-outbreak models with The Weather Company by combining climate and health signals, achieving approximately 80% accuracy with up to a two-week lead time.
-- Led enterprise voice-bot and agent deployments for customer-service automation and explored multimodal integrations with expressive 3D avatars.
+- Delivered a voice-enabled health agent for elderly care, supporting **2,000+ seniors** and reducing manual caregiver workload by **30%**.
+- Developed predictive flu-outbreak models with The Weather Company by combining climate and health signals, achieving approximately **80% accuracy** with up to a **two-week lead time**.
+- Led enterprise voice-bot and agent deployments that reduced inbound query-handling costs by **35%**, and explored multimodal integrations with expressive 3D avatars.
 
 ### Concentrix Innovation Labs — Senior Machine Learning Engineer
 **August 2021 – May 2022 · China / India**
