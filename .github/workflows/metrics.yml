@@ -21,8 +21,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: panditshivam
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, repositories
           config_timezone: Asia/Kolkata
+          config_theme: dark
+          config_animations: yes
           filename: metrics.svg
           output_action: commit
           committer_branch: main
