@@ -1,60 +1,47 @@
-<p align="center">
-  <img src="assets/itachi-ai-banner.svg" alt="Shivam Dwivedi - Machine Learning Architect" width="100%" />
-</p>
+**Portfolio:** [panditshivam.github.io ↗](https://panditshivam.github.io/)
 
-<p align="center">
-  <a href="https://panditshivam.github.io/">
-    <img src="assets/profile.jpg" alt="Shivam Dwivedi" width="180" />
-  </a>
-</p>
+# Shivam Dwivedi
 
-<h1 align="center">Hi, I'm Shivam Dwivedi 👋</h1>
-<h3 align="center">Principal Data Scientist · Machine Learning Solution Architect · Applied AI & ML Engineering Leader</h3>
+**Principal Data Scientist · Machine Learning Solution Architect**
 
-<p align="center">
-  <a href="https://panditshivam.github.io/">Portfolio Website</a> ·
-  <a href="https://linkedin.com/in/panditshivam">LinkedIn</a> ·
-  <a href="https://medium.com/@panditshivam">Medium</a> ·
-  <a href="mailto:shivampandit@icloud.com">Email</a>
-</p>
+[LinkedIn](https://linkedin.com/in/panditshivam) · [Medium](https://medium.com/@panditshivam) · [Email](mailto:shivampandit@icloud.com)
 
-<p align="center">
-  <strong><a href="https://panditshivam.github.io/">Explore my AI &amp; ML portfolio →</a></strong><br />
-  Selected work in GraphRAG, decision intelligence, multilingual AI, and healthcare research.
-</p>
+I build AI systems that connect research, engineering, and business decisions. Over 10+ years, my work has spanned predictive modeling, enterprise retrieval, multilingual AI, healthcare research, and production ML architecture.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panditshivam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, focused on decision intelligence, GraphRAG, and explainable quality systems. Alongside industry work, I’m pursuing a **Ph.D. in explainable multimodal AI** for clinically safe decision support.
 
-## About me
+## Selected work
 
-I am a Principal Data Scientist and Machine Learning Solution Architect with 10+ years of experience designing predictive, statistical, and AI systems across pricing intelligence, customer attrition, experimentation, economic signals, quality intelligence, GraphRAG, explainable AI, NLP, computer vision, and production ML.
+| Focus | What I built | Selected result |
+| :--- | :--- | :--- |
+| **Knowledge & retrieval** | Enterprise GraphRAG combining entity relationships, semantic traversal, and vector retrieval | **89% multi-hop fact recovery** versus 53% in an internal comparison across 22 questions in six categories |
+| **Decision intelligence** | Production pricing, customer attrition, controlled experimentation, and economic signal pipelines | Connected **52 external indicators** to end-market analysis and commercial decisions |
+| **Multilingual AI** | Real-time voice translation and voice-assisted digital commerce at Pulastya AI | Approximately **0.45-second latency** across **3,000+ bilingual pilot calls** |
+| **Healthcare research** | CNN-based keratoconus progression modeling with clinicians at L. V. Prasad Eye Institute | Research using tomography data from **1,200+ subjects** |
 
-My work spans the complete ML lifecycle: business problem formulation, feature engineering, modeling, validation, explainability, architecture, MLOps, and translating statistical evidence into commercial and operational decisions. I currently focus on deterministic AI quality systems, graph-based retrieval, decision intelligence, and clinically safe explainable multimodal AI.
+## Expertise
 
-- 🔭 Building production AI systems that connect data science, architecture, and measurable business outcomes
-- 🧠 Exploring GraphRAG, call-graph intelligence, explainable AI, multimodal learning, and trustworthy ML
-- 🎓 Pursuing a Ph.D. at IIT / Lincoln University in Explainable Multimodal AI for clinically safe decision-support systems
-- ✍️ Writing about machine learning and generative AI on [Medium](https://medium.com/@panditshivam)
-- 💬 Ask me about ML system design, applied data science, GenAI, NLP, computer vision, or MLOps
-
----
-
-## Core expertise
-
-| Area | Skills |
-|---|---|
-| **Data Science & Statistics** | Statistical modeling, hypothesis testing, A/B testing, classification, regression, feature engineering, temporal backtesting, customer analytics, pricing analytics, time-series, STL, PPO |
-| **Machine Learning & XAI** | scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, deep learning, ensembles, ranking, recommendations, counterfactual explanations |
-| **Retrieval, Graph & GenAI** | GraphRAG, knowledge graphs, Neo4j, RAG, embeddings, ANN/vector search, semantic and hybrid retrieval, NLP, LLMs, Hugging Face, LangChain, LlamaIndex |
-| **ML Architecture & MLOps** | Kedro, Argo Workflows, Docker, Kubernetes, CI/CD, experiment tracking, observability, regression testing, batch and API serving |
-| **Data & Cloud** | Python, SQL, GCP, BigQuery, Cloud Spanner, Vertex AI, AWS, PostgreSQL, MongoDB, Kafka, Spark, Flink, Airflow |
-| **Leadership** | ML system design, solution architecture, technical strategy, product development, stakeholder management, engineering leadership, architecture reviews, mentoring |
-
----
+| Area | Methods & tools |
+| :--- | :--- |
+| **Data science & statistics** | Predictive modeling, hypothesis testing, A/B testing, temporal validation, pricing, customer analytics |
+| **Machine learning & explainability** | PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, computer vision, counterfactual explanations |
+| **Graphs, retrieval & GenAI** | GraphRAG, Neo4j, knowledge graphs, hybrid retrieval, embeddings, NLP, LangChain, LlamaIndex |
+| **Architecture & MLOps** | Kedro, Argo Workflows, Docker, Kubernetes, CI/CD, observability, batch and API serving |
+| **Data platforms & cloud** | Python, SQL, GCP, AWS, BigQuery, Vertex AI, Kafka, Spark, Airflow |
 
 ## Experience
+
+| Organization | Role | Period |
+| :--- | :--- | :--- |
+| **Code & Theory** | Solution Architect, Machine Learning | Mar 2025 – Present |
+| **Pulastya AI** | Co-Founder & CTO | Jun 2022 – Feb 2025 |
+| **Concentrix Innovation Labs** | Senior Machine Learning Engineer | Aug 2021 – May 2022 |
+| **Techsophy** | Machine Learning Engineer | Jan 2019 – Aug 2021 |
+| **SDLC Corp** | AI Consultant; previously Software Engineer | Jun 2015 – Jan 2019 |
+| **Cognizant** | Programmer Analyst | Aug 2014 – Jun 2015 |
+
+<details>
+<summary><strong>Explore contributions, systems, and outcomes</strong></summary>
 
 ### Code & Theory — Solution Architect, Machine Learning
 **March 2025 – Present · India**
@@ -137,24 +124,16 @@ My work spans the complete ML lifecycle: business problem formulation, feature e
 - **Software Engineer, SDLC Corp** — June 2015 – April 2017
 - **Programmer Analyst, Cognizant** — August 2014 – June 2015
 
----
+</details>
 
-## Education
+## Research & education
 
-### Ph.D. — IIT / Lincoln University *(ongoing)*
-**Explainable Multimodal AI / XAI for clinically safe decision-support systems**
+- **Ph.D. — IIT / Lincoln University · Ongoing**
+  Explainable multimodal AI and interpretable systems for clinically safe decision support.
+- **M.Tech — Artificial Intelligence · 2017–2019**
+  University of Hyderabad & IIIT Hyderabad (Research). Thesis: *Machine Learning Approaches for Understanding the Brain and Psychiatric Disorders*. Advisor: [Prof. Bapi S. Raju](https://www.iiit.ac.in/faculty/bapi-raju-s/).
 
-Research focus: explainable multimodal AI, clinically safe decision support, and interpretable AI systems for real-world healthcare applications.
-
-### M.Tech — Artificial Intelligence
-**University of Hyderabad & IIIT Hyderabad (Research) · 2017–2019**
-
-- **Thesis:** Machine Learning Approaches for Understanding the Brain and Psychiatric Disorders
-- **Advisor:** [Prof. Bapi S. Raju](https://www.iiit.ac.in/faculty/bapi-raju-s/)
-
----
-
-## Publications
+### Publications
 
 - **[ML Classifier Explanations with Diversified Prototype Counterfactuals](https://link.springer.com/book/9783031472237)** — AMRIT, Springer, 2023
 - **[KEDOP: Keratoconus Early Detection of Progression Using Tomography Images](https://pubmed.ncbi.nlm.nih.gov/35343267/)** — European Journal of Ophthalmology, 2022
@@ -162,17 +141,15 @@ Research focus: explainable multimodal AI, clinically safe decision support, and
 - **[Early Detection of Keratoconus Progression with Deep Learning on Tomography Images](https://journals.sagepub.com/doi/10.1177/11206721221087566)** — World Cornea Congress, 2020
 - **Identifying Correlation Between Frontoparietal Networks and Other Cognitive Networks in Autism** — IEEE TENCON, 2019
 
----
-
 ## Recognition
 
-- 🏆 **Winner, ONDC-Bhashini Sprint 2024** — Ministry of Electronics and Information Technology, Government of India
-- 🥈 **Runner-up, Bhashini Velocity 2024**
-- 🌍 Represented the startup ecosystem at global forums including **London Tech Week** and **GITEX**
+- **Winner — ONDC-Bhashini Sprint 2024**, Ministry of Electronics and Information Technology, Government of India
+- **Runner-up — Bhashini Velocity 2024**
+- Represented the startup ecosystem at **London Tech Week** and **GITEX**
 
----
+## Writing
 
-## Latest blog posts
+Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
 - [Navigating the Abundance of LLM Content: A Comprehensive Guide](https://medium.com/kritrimlabs-ai/navigating-the-abundance-of-llm-content-a-comprehensive-guide-af41c1224531?source=rss-5f672468752e------2)
@@ -181,22 +158,3 @@ Research focus: explainable multimodal AI, clinically safe decision support, and
 - [Introduction to Neural Networks Part-2 &lpar;AND, OR and XOR Gate&rpar;](https://medium.com/kritrimlabs-ai/introduction-to-neural-networks-part-2-879d9660b929?source=rss-5f672468752e------2)
 - [Introduction to Neural Networks Part-1](https://medium.com/kritrimlabs-ai/introduction-to-neural-networks-part-1-56324f7aa15d?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## Languages and tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
-
----
