@@ -6,18 +6,20 @@
 
 [LinkedIn](https://linkedin.com/in/panditshivam) · [Medium](https://medium.com/@panditshivam) · [Email](mailto:shivampandit@icloud.com)
 
-I build AI systems that connect research, engineering, and business decisions. Over 10+ years, my work has spanned predictive modeling, enterprise retrieval, multilingual AI, healthcare research, and production ML architecture.
+I design, evaluate, and deliver enterprise AI systems—from problem definition and proof of concept to production architecture. My **12+ years** span generative AI, LLMs, predictive modeling, multilingual voice AI, and explainable machine learning.
 
-Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, focused on decision intelligence, GraphRAG, and explainable quality systems. Alongside industry work, I’m pursuing a **Ph.D. in explainable multimodal AI** for clinically safe decision support.
+At **Code & Theory**, I lead the **India ML/AI engineering team**, combining hands-on architecture with technical direction, mentoring, delivery ownership, and production readiness. My current focus is GraphRAG, agentic decision support, grounded LLM evaluation, and multimodal AI. I’m also pursuing a **Ph.D. at IIT Patna** in explainable multimodal AI for clinically safe decision support.
 
 ## Selected work
 
 | Focus | What I built | Selected result |
 | :--- | :--- | :--- |
-| **Knowledge & retrieval** | Enterprise GraphRAG combining entity relationships, semantic traversal, and vector retrieval | **89% multi-hop fact recovery** versus 53% in an internal comparison across 22 questions in six categories |
-| **Decision intelligence** | Production pricing, customer attrition, controlled experimentation, and economic signal pipelines | Connected **52 external indicators** to end-market analysis and commercial decisions |
-| **Multilingual AI** | Real-time voice translation and voice-assisted digital commerce at Pulastya AI | Approximately **0.45-second latency** across **3,000+ bilingual pilot calls** |
-| **Healthcare research** | CNN-based keratoconus progression modeling with clinicians at L. V. Prasad Eye Institute | Research using tomography data from **1,200+ subjects** |
+| **Grounded enterprise AI** | GraphRAG with source traceability and a formal retrieval/answer evaluation framework | **89% multi-hop fact recovery** versus 53% in an internal comparison across 22 questions in six categories |
+| **Pricing & decision support** | Production pricing, controlled experiments, and an agentic “Explain the Price” system | Pricing coverage of **~$1.6B in trailing-12-month revenue**; experiments contributed **$13.5M+ estimated annualized margin impact** across eight tests |
+| **Content intelligence** | Hybrid retrieval, recommendations, and LLM-assisted editorial workflows on GCP | A **multi-million-article corpus**, with **50%+ less manual curation** |
+| **Generative vision** | Modular Python services for image-conditioned generation, segmentation, and controllable multimodal workflows | SDXL, LoRA, IP-Adapter, SAM-HQ, and GroundingDINO with stage-level tracing and regression checks |
+| **Multilingual voice AI** | Real-time translation and voice-assisted digital commerce at Pulastya AI | Approximately **0.45-second end-to-end latency** and **3,000+ bilingual pilot calls** |
+| **Healthcare research** | Explainable CNN models with clinicians at L. V. Prasad Eye Institute | Tomography research using **1,200+ subjects**, published in the European Journal of Ophthalmology |
 
 ## Expertise
 
@@ -25,9 +27,10 @@ Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, fo
 | :--- | :--- |
 | **Data science & statistics** | Predictive modeling, hypothesis testing, A/B testing, temporal validation, pricing, customer analytics |
 | **Machine learning & explainability** | PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, computer vision, counterfactual explanations |
-| **Graphs, retrieval & GenAI** | GraphRAG, Neo4j, knowledge graphs, hybrid retrieval, embeddings, NLP, LangChain, LlamaIndex |
-| **Architecture & MLOps** | Kedro, Argo Workflows, Docker, Kubernetes, CI/CD, observability, batch and API serving |
-| **Data platforms & cloud** | Python, SQL, GCP, AWS, BigQuery, Vertex AI, Kafka, Spark, Airflow |
+| **GenAI, agents & evaluation** | Agentic workflows, tool use, context engineering, LLM grounding, prompt and agent evaluation, LangChain, LlamaIndex |
+| **Graphs, retrieval & multimodal AI** | GraphRAG, Neo4j, hybrid search, embeddings, NLP, Stable Diffusion XL, LoRA, SAM, GroundingDINO |
+| **Architecture & MLOps** | Kedro, Argo Workflows, Docker, Kubernetes, CI/CD, experiment tracking, observability, regression checks, model serving |
+| **Data platforms & cloud** | Python, Java, SQL, GCP, AWS, Azure, BigQuery, Cloud Spanner, Vertex AI, Kafka, Spark, Airflow |
 
 ## Experience
 
@@ -46,11 +49,17 @@ Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, fo
 ### Code & Theory — Solution Architect, Machine Learning
 **March 2025 – Present · India**
 
+**Engineering leadership**
+
+- Lead the India ML/AI engineering team, set technical direction, mentor engineers, and review architecture and implementation.
+- Own delivery and production readiness across enterprise AI platforms, from problem formulation and PoC to evaluation, deployment, and operations.
+
 **Commercial Pricing & ML Decision Intelligence**
 
 - Architected a production pricing decision framework combining transaction-level feature engineering, comparable-price logic, recency and transaction weighting, conversion-rate adjustments, ML recommendations, and multi-layer commercial guardrails.
 - Operationalized reusable data and model pipelines through Kedro and Argo, with lineage, regression validation, and memory/runtime optimization.
-- Designed an agentic “Explain the Price” decision-support layer that surfaces the factors behind recommendations across region, product/form, order size, and customer and market signals.
+- Designed an agentic “Explain the Price” system that connects model outputs, costs, discounts, order-size adjustments, and active experiments, with follow-up questions on comparable deals and win likelihood.
+- Architected a pricing engine covering **~$1.6B in trailing-12-month revenue**, built on **~$8.8B in historical transactions**; controlled experiments contributed **$13.5M+ in estimated annualized margin impact across eight tests**.
 
 **Customer Attrition & Enterprise Churn Modeling**
 
@@ -65,11 +74,17 @@ Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, fo
 
 **Quality Intelligence, GraphRAG & Applied AI**
 
-- Architected an organization-wide Quality Intelligence platform that converts multi-tool SARIF evidence into deterministic, explainable repository-, module-, and function-level quality scores and trends.
-- Designed graph-based extensions for semantic redundancy, localized call-graph structure, AI-generated-code assessment, and completeness-aware scoring that prevents failed analyzers from inflating quality.
+- Lead the design of a structural-intelligence platform for large codebases, combining deterministic program analysis, graph-based reasoning, evidence-gated decisions, explainability, and large-scale evaluation.
 - Architected and benchmarked an enterprise GraphRAG system combining entity-relationship graphs, semantic traversal, and vector retrieval; achieved **89% multi-hop fact recovery versus 53% for a leading enterprise benchmark** and **2.9× faster average inference** across **22 ground-truth questions in six categories**.
-- Improved internal GraphRAG evaluation quality from **43.1% to 54.6%** while reducing confirmed hallucinations to **zero** through retrieval, traversal, and grounding refinements.
-- Led architecture for a production content-intelligence platform on GCP, combining external trends, entity intelligence, hybrid retrieval, recommendations, and geospatial analytics across a **multi-million-article corpus**, reducing manual editorial curation by **50%+**.
+- Built a formal retrieval and LLM evaluation framework that separates retrieval quality from answer quality and includes adversarial and out-of-scope cases.
+- Improved internal GraphRAG evaluation quality from **43.1% to 54.6%**, with **zero confirmed hallucinations in the reported evaluation** after retrieval, traversal, and grounding refinements.
+- Led architecture for a production content-intelligence platform across a **multi-million-article corpus**, combining hybrid retrieval, ranking, recommendations, entity intelligence, external trends, and geospatial signals; reduced manual curation by **50%+**.
+- Designed LLM-assisted tagging, drafting support, retrieval augmentation, and distribution workflows using BigQuery, Cloud Spanner, and Vertex AI, with prompt/version control, tracing, observability, and regression checks.
+
+**Generative Vision & Multimodal AI**
+
+- Re-engineered node-based generative workflows into modular Python services using **Stable Diffusion XL, LoRA, IP-Adapter, SAM-HQ, and GroundingDINO** for image-conditioned generation, segmentation, and controlled multimodal workflows.
+- Added stage-level tracing, artifact validation, model/config versioning, deterministic controls, and regression checks to support reproducibility and production readiness.
 
 ### Pulastya AI — Co-Founder & CTO
 **June 2022 – February 2025 · India / UK**
@@ -128,8 +143,8 @@ Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, fo
 
 ## Research & education
 
-- **Ph.D. — IIT / Lincoln University · Ongoing**
-  Explainable multimodal AI and interpretable systems for clinically safe decision support.
+- **Ph.D. — IIT Patna · Ongoing; expected completion 2028**
+  Explainable multimodal AI for clinically safe decision-support systems. Advisor: **Dr. Chandranath Adak**.
 - **M.Tech — Artificial Intelligence · 2017–2019**
   University of Hyderabad & IIIT Hyderabad (Research). Thesis: *Machine Learning Approaches for Understanding the Brain and Psychiatric Disorders*. Advisor: [Prof. Bapi S. Raju](https://www.iiit.ac.in/faculty/bapi-raju-s/).
 
@@ -140,6 +155,12 @@ Currently, I’m a **Solution Architect, Machine Learning at Code & Theory**, fo
 - **[Impact of COVID-19 Ripples on Cataract Surgical Care](https://ascrs.confex.com/ascrs/22am/meetingapp.cgi/Paper/84958)** — ASCRS, 2022
 - **[Early Detection of Keratoconus Progression with Deep Learning on Tomography Images](https://journals.sagepub.com/doi/10.1177/11206721221087566)** — World Cornea Congress, 2020
 - **Identifying Correlation Between Frontoparietal Networks and Other Cognitive Networks in Autism** — IEEE TENCON, 2019
+
+## Learning & credentials
+
+- **MongoDB:** Deploying and Evaluating GenAI Apps Learning Badge Path
+- **Anthropic:** Introduction to Model Context Protocol; Introduction to Agent Skills; Claude Code in Action; Building with the Claude API
+- **Hugging Face:** Fundamentals of MCP
 
 ## Recognition
 
