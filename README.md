@@ -2,13 +2,25 @@
   <img src="assets/itachi-ai-banner.svg" alt="Shivam Dwivedi - Machine Learning Architect" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://panditshivam.github.io/">
+    <img src="assets/profile.jpg" alt="Shivam Dwivedi" width="180" />
+  </a>
+</p>
+
 <h1 align="center">Hi, I'm Shivam Dwivedi 👋</h1>
 <h3 align="center">Principal Data Scientist · Machine Learning Solution Architect · Applied AI & ML Engineering Leader</h3>
 
 <p align="center">
+  <a href="https://panditshivam.github.io/">Portfolio Website</a> ·
   <a href="https://linkedin.com/in/panditshivam">LinkedIn</a> ·
   <a href="https://medium.com/@panditshivam">Medium</a> ·
   <a href="mailto:shivampandit@icloud.com">Email</a>
+</p>
+
+<p align="center">
+  <strong><a href="https://panditshivam.github.io/">Explore my AI &amp; ML portfolio →</a></strong><br />
+  Selected work in GraphRAG, decision intelligence, multilingual AI, and healthcare research.
 </p>
 
 <p align="center">
