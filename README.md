@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [The cookie jar behind A/B testing: Fisher’s test to churn](https://panditshivam.medium.com/the-cookie-jar-behind-a-b-testing-fishers-test-to-churn-14cf24a235f6?source=rss-5f672468752e------2)
 - [Probabilities can sum to one and still describe the wrong experiment](https://panditshivam.medium.com/probabilities-can-sum-to-one-and-still-describe-the-wrong-experiment-d41c9724458d?source=rss-5f672468752e------2)
 - [OpenJev vs OpenAI Decisions: fewer missed defects, more false alarms](https://panditshivam.medium.com/openjev-vs-openai-decisions-fewer-missed-defects-more-false-alarms-3f5db8485b77?source=rss-5f672468752e------2)
 - [OpenJev on text and images: a tie, then a scoring surprise](https://panditshivam.medium.com/openjev-and-keyword-rules-tied-on-18-issues-the-labels-needed-a-closer-look-6c7c14dca6bb?source=rss-5f672468752e------2)
 - [Navigating the Abundance of LLM Content: A Comprehensive Guide](https://medium.com/kritrimlabs-ai/navigating-the-abundance-of-llm-content-a-comprehensive-guide-af41c1224531?source=rss-5f672468752e------2)
-- [AnimateDiff: Revolutionize Text-to-Image Generation and Animation](https://panditshivam.medium.com/animatediff-revolutionize-text-to-image-generation-and-animation-33d74920cc11?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
