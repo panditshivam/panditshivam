@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
-- [Python returned zero. The coin model still assigned a positive probability.](https://panditshivam.medium.com/python-returned-zero-the-coin-model-still-assigned-a-positive-probability-77c123388450?source=rss-5f672468752e------2)
-- [The cookie jar behind A/B testing: Fisher’s test to churn](https://panditshivam.medium.com/the-cookie-jar-behind-a-b-testing-fishers-test-to-churn-14cf24a235f6?source=rss-5f672468752e------2)
-- [Probabilities can sum to one and still describe the wrong experiment](https://panditshivam.medium.com/probabilities-can-sum-to-one-and-still-describe-the-wrong-experiment-d41c9724458d?source=rss-5f672468752e------2)
-- [OpenJev vs OpenAI Decisions: fewer missed defects, more false alarms](https://panditshivam.medium.com/openjev-vs-openai-decisions-fewer-missed-defects-more-false-alarms-3f5db8485b77?source=rss-5f672468752e------2)
-- [OpenJev on text and images: a tie, then a scoring surprise](https://panditshivam.medium.com/openjev-and-keyword-rules-tied-on-18-issues-the-labels-needed-a-closer-look-6c7c14dca6bb?source=rss-5f672468752e------2)
+- [10x faster generation, 1.4x faster workflow: a Python lab](https://panditshivam.medium.com/10x-faster-generation-1-4x-faster-workflow-a-python-lab-f7494416a943?source=rss-5f672468752e------2)
+- [DeepSeek Flash 1017 skips Jinja. Read its prompts with Python](https://panditshivam.medium.com/deepseek-flash-1017-skips-jinja-read-its-prompts-with-python-7435137152ec?source=rss-5f672468752e------2)
+- [Free MiniMax, zero API keys: build a read-only SQL report app](https://panditshivam.medium.com/free-minimax-zero-api-keys-build-a-read-only-sql-report-app-9455b6f57dba?source=rss-5f672468752e------2)
+- [Mercury 3 is fast. Your agent still has to wait for its tools.](https://panditshivam.medium.com/mercury-3-is-fast-your-agent-still-has-to-wait-for-its-tools-f137d19ee825?source=rss-5f672468752e------2)
+- [DeepSeek Flash 1017: check the alias, the harness and the checkpoint](https://panditshivam.medium.com/deepseek-flash-1017-check-the-alias-the-harness-and-the-checkpoint-f80809c3ca32?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
