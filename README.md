@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT vs DeepSeek vs Gemini Argon: one ball, three animations](https://panditshivam.medium.com/gpt-vs-deepseek-vs-gemini-argon-one-ball-three-animations-14f4f67cdbd2?source=rss-5f672468752e------2)
 - [10x faster generation, 1.4x faster workflow: a Python lab](https://panditshivam.medium.com/10x-faster-generation-1-4x-faster-workflow-a-python-lab-f7494416a943?source=rss-5f672468752e------2)
 - [DeepSeek Flash 1017 skips Jinja. Read its prompts with Python](https://panditshivam.medium.com/deepseek-flash-1017-skips-jinja-read-its-prompts-with-python-7435137152ec?source=rss-5f672468752e------2)
 - [Free MiniMax, zero API keys: build a read-only SQL report app](https://panditshivam.medium.com/free-minimax-zero-api-keys-build-a-read-only-sql-report-app-9455b6f57dba?source=rss-5f672468752e------2)
 - [Mercury 3 is fast. Your agent still has to wait for its tools.](https://panditshivam.medium.com/mercury-3-is-fast-your-agent-still-has-to-wait-for-its-tools-f137d19ee825?source=rss-5f672468752e------2)
-- [DeepSeek Flash 1017: check the alias, the harness and the checkpoint](https://panditshivam.medium.com/deepseek-flash-1017-check-the-alias-the-harness-and-the-checkpoint-f80809c3ca32?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
