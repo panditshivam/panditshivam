@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [Before copying Google’s Rust rules, read the scope labels](https://panditshivam.medium.com/before-copying-googles-rust-rules-read-the-scope-labels-b0edf421e27a?source=rss-5f672468752e------2)
+- [TypeScript 7.1 can check an import attribute and still miss a missing file](https://panditshivam.medium.com/typescript-7-1-can-check-an-import-attribute-and-still-miss-a-missing-file-f04120e88743?source=rss-5f672468752e------2)
+- [Claude Duet makes “should I interrupt you?” a product feature](https://panditshivam.medium.com/claude-duet-makes-should-i-interrupt-you-a-product-feature-91d6a7276d33?source=rss-5f672468752e------2)
 - [DeepInfer is open. Here is where the engine stops.](https://panditshivam.medium.com/deepinfer-is-open-here-is-where-the-engine-stops-b2471e965ec5?source=rss-5f672468752e------2)
 - [Try tsrs without replacing your TypeScript build](https://panditshivam.medium.com/try-tsrs-without-replacing-your-typescript-build-0bb1b4a8548a?source=rss-5f672468752e------2)
-- [GPT vs DeepSeek vs Gemini Argon: one ball, three animations](https://panditshivam.medium.com/gpt-vs-deepseek-vs-gemini-argon-one-ball-three-animations-14f4f67cdbd2?source=rss-5f672468752e------2)
-- [10x faster generation, 1.4x faster workflow: a Python lab](https://panditshivam.medium.com/10x-faster-generation-1-4x-faster-workflow-a-python-lab-f7494416a943?source=rss-5f672468752e------2)
-- [DeepSeek Flash 1017 skips Jinja. Read its prompts with Python](https://panditshivam.medium.com/deepseek-flash-1017-skips-jinja-read-its-prompts-with-python-7435137152ec?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
