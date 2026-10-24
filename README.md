@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [ThinkingBox’s 20/20 column is useful. It still isn’t a reliability guarantee.](https://panditshivam.medium.com/thinkingboxs-20-20-column-is-useful-it-still-isn-t-a-reliability-guarantee-450bd3565d9a?source=rss-5f672468752e------2)
+- [OpenShell’s default policy is only the start of the access story](https://panditshivam.medium.com/openshells-default-policy-is-only-the-start-of-the-access-story-cb9fc3444f6c?source=rss-5f672468752e------2)
+- [Bun has a formatter now. Start with the command that writes nothing.](https://panditshivam.medium.com/bun-has-a-formatter-now-start-with-the-command-that-writes-nothing-cb351805fc2d?source=rss-5f672468752e------2)
 - [Before copying Google’s Rust rules, read the scope labels](https://panditshivam.medium.com/before-copying-googles-rust-rules-read-the-scope-labels-b0edf421e27a?source=rss-5f672468752e------2)
 - [TypeScript 7.1 can check an import attribute and still miss a missing file](https://panditshivam.medium.com/typescript-7-1-can-check-an-import-attribute-and-still-miss-a-missing-file-f04120e88743?source=rss-5f672468752e------2)
-- [Claude Duet makes “should I interrupt you?” a product feature](https://panditshivam.medium.com/claude-duet-makes-should-i-interrupt-you-a-product-feature-91d6a7276d33?source=rss-5f672468752e------2)
-- [DeepInfer is open. Here is where the engine stops.](https://panditshivam.medium.com/deepinfer-is-open-here-is-where-the-engine-stops-b2471e965ec5?source=rss-5f672468752e------2)
-- [Try tsrs without replacing your TypeScript build](https://panditshivam.medium.com/try-tsrs-without-replacing-your-typescript-build-0bb1b4a8548a?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
