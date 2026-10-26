@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [LitPivot makes a quiet research bug visible: the metric can outlive the idea](https://panditshivam.medium.com/litpivot-makes-a-quiet-research-bug-visible-the-metric-can-outlive-the-idea-666f1a94151d?source=rss-5f672468752e------2)
+- [Claude can write the proof. You still have to choose the theorem.](https://panditshivam.medium.com/claude-can-write-the-proof-you-still-have-to-choose-the-theorem-c697de4a8298?source=rss-5f672468752e------2)
+- [The OpenSpec update I want first is the one that writes nothing](https://panditshivam.medium.com/the-openspec-update-i-want-first-is-the-one-that-writes-nothing-468f10cc9448?source=rss-5f672468752e------2)
 - [Mundo puts a simulator inside the world model. Here’s what to inspect.](https://panditshivam.medium.com/mundo-puts-a-simulator-inside-the-world-model-heres-what-to-inspect-d5884c270431?source=rss-5f672468752e------2)
 - [Kimi K3.1 Pro: 104B active parameters still carry a 2.8T backpack](https://panditshivam.medium.com/kimi-k3-1-pro-104b-active-parameters-still-carry-a-2-8t-backpack-0b4da5cd2284?source=rss-5f672468752e------2)
-- [MCP Tasks: the retry bug hiding behind a successful job](https://panditshivam.medium.com/mcp-tasks-the-retry-bug-hiding-behind-a-successful-job-c91ca5da7eae?source=rss-5f672468752e------2)
-- [ThinkingBox’s 20/20 column is useful. It still isn’t a reliability guarantee.](https://panditshivam.medium.com/thinkingboxs-20-20-column-is-useful-it-still-isn-t-a-reliability-guarantee-450bd3565d9a?source=rss-5f672468752e------2)
-- [OpenShell’s default policy is only the start of the access story](https://panditshivam.medium.com/openshells-default-policy-is-only-the-start-of-the-access-story-cb9fc3444f6c?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
