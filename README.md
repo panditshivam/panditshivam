@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [Sixteen JAX devices on a CPU, and one gradient bug worth finding](https://panditshivam.medium.com/sixteen-jax-devices-on-a-cpu-and-one-gradient-bug-worth-finding-a7df944acfbf?source=rss-5f672468752e------2)
+- [PaperPilot runs locally. Your agent still has a data boundary.](https://panditshivam.medium.com/paperpilot-runs-locally-your-agent-still-has-a-data-boundary-1eff29fe768b?source=rss-5f672468752e------2)
+- [The first LLM router metric I check is the missing-row count](https://panditshivam.medium.com/the-first-llm-router-metric-i-check-is-the-missing-row-count-7a9eb72aaacb?source=rss-5f672468752e------2)
 - [LitPivot makes a quiet research bug visible: the metric can outlive the idea](https://panditshivam.medium.com/litpivot-makes-a-quiet-research-bug-visible-the-metric-can-outlive-the-idea-666f1a94151d?source=rss-5f672468752e------2)
 - [Claude can write the proof. You still have to choose the theorem.](https://panditshivam.medium.com/claude-can-write-the-proof-you-still-have-to-choose-the-theorem-c697de4a8298?source=rss-5f672468752e------2)
-- [The OpenSpec update I want first is the one that writes nothing](https://panditshivam.medium.com/the-openspec-update-i-want-first-is-the-one-that-writes-nothing-468f10cc9448?source=rss-5f672468752e------2)
-- [Mundo puts a simulator inside the world model. Here’s what to inspect.](https://panditshivam.medium.com/mundo-puts-a-simulator-inside-the-world-model-heres-what-to-inspect-d5884c270431?source=rss-5f672468752e------2)
-- [Kimi K3.1 Pro: 104B active parameters still carry a 2.8T backpack](https://panditshivam.medium.com/kimi-k3-1-pro-104b-active-parameters-still-carry-a-2-8t-backpack-0b4da5cd2284?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
