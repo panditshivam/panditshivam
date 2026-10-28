@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [What the VKORE NPU release lets you check](https://panditshivam.medium.com/what-the-vkore-npu-release-lets-you-check-f704bab96922?source=rss-5f672468752e------2)
+- [DecisionFormer has two confidence fields. Check which one you are thresholding.](https://panditshivam.medium.com/decisionformer-has-two-confidence-fields-check-which-one-you-are-thresholding-4afc538189e8?source=rss-5f672468752e------2)
+- [A Hugging Face download should leave a receipt](https://panditshivam.medium.com/a-hugging-face-download-should-leave-a-receipt-e2afd42cedef?source=rss-5f672468752e------2)
 - [Sixteen JAX devices on a CPU, and one gradient bug worth finding](https://panditshivam.medium.com/sixteen-jax-devices-on-a-cpu-and-one-gradient-bug-worth-finding-a7df944acfbf?source=rss-5f672468752e------2)
 - [PaperPilot runs locally. Your agent still has a data boundary.](https://panditshivam.medium.com/paperpilot-runs-locally-your-agent-still-has-a-data-boundary-1eff29fe768b?source=rss-5f672468752e------2)
-- [The first LLM router metric I check is the missing-row count](https://panditshivam.medium.com/the-first-llm-router-metric-i-check-is-the-missing-row-count-7a9eb72aaacb?source=rss-5f672468752e------2)
-- [LitPivot makes a quiet research bug visible: the metric can outlive the idea](https://panditshivam.medium.com/litpivot-makes-a-quiet-research-bug-visible-the-metric-can-outlive-the-idea-666f1a94151d?source=rss-5f672468752e------2)
-- [Claude can write the proof. You still have to choose the theorem.](https://panditshivam.medium.com/claude-can-write-the-proof-you-still-have-to-choose-the-theorem-c697de4a8298?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
