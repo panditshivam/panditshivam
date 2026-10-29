@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [Your trace UI can hide a secret that SQLite still stores](https://panditshivam.medium.com/your-trace-ui-can-hide-a-secret-that-sqlite-still-stores-fc03e7c5d919?source=rss-5f672468752e------2)
+- [Before trusting a novelty judge, count the verdicts that move](https://panditshivam.medium.com/before-trusting-a-novelty-judge-count-the-verdicts-that-move-1ad5a53ce4b3?source=rss-5f672468752e------2)
+- [LFM3’s small backbone still has a growing KV cache](https://panditshivam.medium.com/lfm3s-small-backbone-still-has-a-growing-kv-cache-5cb500b70237?source=rss-5f672468752e------2)
 - [What the VKORE NPU release lets you check](https://panditshivam.medium.com/what-the-vkore-npu-release-lets-you-check-f704bab96922?source=rss-5f672468752e------2)
 - [DecisionFormer has two confidence fields. Check which one you are thresholding.](https://panditshivam.medium.com/decisionformer-has-two-confidence-fields-check-which-one-you-are-thresholding-4afc538189e8?source=rss-5f672468752e------2)
-- [A Hugging Face download should leave a receipt](https://panditshivam.medium.com/a-hugging-face-download-should-leave-a-receipt-e2afd42cedef?source=rss-5f672468752e------2)
-- [Sixteen JAX devices on a CPU, and one gradient bug worth finding](https://panditshivam.medium.com/sixteen-jax-devices-on-a-cpu-and-one-gradient-bug-worth-finding-a7df944acfbf?source=rss-5f672468752e------2)
-- [PaperPilot runs locally. Your agent still has a data boundary.](https://panditshivam.medium.com/paperpilot-runs-locally-your-agent-still-has-a-data-boundary-1eff29fe768b?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
