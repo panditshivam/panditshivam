@@ -4,7 +4,7 @@
 
 **Principal Data Scientist · Machine Learning Solution Architect**
 
-[LinkedIn](https://linkedin.com/in/panditshivam) · [Medium](https://medium.com/@panditshivam) · [Email](mailto:shivampandit@icloud.com)
+[LinkedIn](https://linkedin.com/in/panditshivam) · [Dev](https://dev.to/panditshivam) · [Medium](https://medium.com/@panditshivam) · [Email](mailto:shivampandit@icloud.com)
 
 I design, evaluate, and deliver enterprise AI systems—from problem definition and proof of concept to production architecture. My **12+ years** span generative AI, LLMs, predictive modeling, multilingual voice AI, and explainable machine learning.
 
