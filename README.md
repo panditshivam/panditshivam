@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [I changed the rows. PostgreSQL’s statistics still remembered them.](https://panditshivam.medium.com/i-changed-the-rows-postgresqls-statistics-still-remembered-them-ed21f9388b5c?source=rss-5f672468752e------2)
+- [A climate CSV can parse perfectly and still mean the wrong thing](https://panditshivam.medium.com/a-climate-csv-can-parse-perfectly-and-still-mean-the-wrong-thing-a663183a03d6?source=rss-5f672468752e------2)
+- [Mistral Large 4 makes two different sparse choices](https://panditshivam.medium.com/mistral-large-4-makes-two-different-sparse-choices-c7964853c41d?source=rss-5f672468752e------2)
 - [Ghostlight Archive: follow a thought through a haunted house](https://panditshivam.medium.com/ghostlight-archive-follow-a-thought-through-a-haunted-house-2d2567210ce2?source=rss-5f672468752e------2)
 - [The words can be right while the meeting is wrong](https://panditshivam.medium.com/the-words-can-be-right-while-the-meeting-is-wrong-45dd72f31b54?source=rss-5f672468752e------2)
-- [MQTT delivered the message. Did the database commit?](https://panditshivam.medium.com/mqtt-delivered-the-message-did-the-database-commit-b23316931ce9?source=rss-5f672468752e------2)
-- [Your trace UI can hide a secret that SQLite still stores](https://panditshivam.medium.com/your-trace-ui-can-hide-a-secret-that-sqlite-still-stores-fc03e7c5d919?source=rss-5f672468752e------2)
-- [Before trusting a novelty judge, count the verdicts that move](https://panditshivam.medium.com/before-trusting-a-novelty-judge-count-the-verdicts-that-move-1ad5a53ce4b3?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
