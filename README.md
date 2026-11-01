@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [Prospero’s useful timeout trick: keep the command, return a handle](https://panditshivam.medium.com/prosperos-useful-timeout-trick-keep-the-command-return-a-handle-6de0805cfe57?source=rss-5f672468752e------2)
+- [Granite Switch 4.1.1: check the release tag before loading weights](https://panditshivam.medium.com/granite-switch-4-1-1-check-the-release-tag-before-loading-weights-1143f79e7647?source=rss-5f672468752e------2)
 - [I made a graveyard for deleted code. One of the ghosts wasn’t dead.](https://panditshivam.medium.com/i-made-a-graveyard-for-deleted-code-one-of-the-ghosts-wasnt-dead-28109753aa74?source=rss-5f672468752e------2)
 - [I changed the rows. PostgreSQL’s statistics still remembered them.](https://panditshivam.medium.com/i-changed-the-rows-postgresqls-statistics-still-remembered-them-ed21f9388b5c?source=rss-5f672468752e------2)
 - [A climate CSV can parse perfectly and still mean the wrong thing](https://panditshivam.medium.com/a-climate-csv-can-parse-perfectly-and-still-mean-the-wrong-thing-a663183a03d6?source=rss-5f672468752e------2)
-- [Mistral Large 4 makes two different sparse choices](https://panditshivam.medium.com/mistral-large-4-makes-two-different-sparse-choices-c7964853c41d?source=rss-5f672468752e------2)
-- [Ghostlight Archive: three lost memories, one very stubborn ghost](https://panditshivam.medium.com/ghostlight-archive-follow-a-thought-through-a-haunted-house-2d2567210ce2?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
