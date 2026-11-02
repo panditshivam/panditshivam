@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
-- [Prospero’s useful timeout trick: keep the command, return a handle](https://panditshivam.medium.com/prosperos-useful-timeout-trick-keep-the-command-return-a-handle-6de0805cfe57?source=rss-5f672468752e------2)
-- [Granite Switch 4.1.1: check the release tag before loading weights](https://panditshivam.medium.com/granite-switch-4-1-1-check-the-release-tag-before-loading-weights-1143f79e7647?source=rss-5f672468752e------2)
-- [I made a graveyard for deleted code. One of the ghosts wasn’t dead.](https://panditshivam.medium.com/i-made-a-graveyard-for-deleted-code-one-of-the-ghosts-wasnt-dead-28109753aa74?source=rss-5f672468752e------2)
-- [I changed the rows. PostgreSQL’s statistics still remembered them.](https://panditshivam.medium.com/i-changed-the-rows-postgresqls-statistics-still-remembered-them-ed21f9388b5c?source=rss-5f672468752e------2)
-- [A climate CSV can parse perfectly and still mean the wrong thing](https://panditshivam.medium.com/a-climate-csv-can-parse-perfectly-and-still-mean-the-wrong-thing-a663183a03d6?source=rss-5f672468752e------2)
+- [The smaller token bill can buy fewer working builds](https://panditshivam.medium.com/the-smaller-token-bill-can-buy-fewer-working-builds-d9b37b8d9598?source=rss-5f672468752e------2)
+- [My parser read past the input. AddressSanitizer stayed quiet.](https://panditshivam.medium.com/my-parser-read-past-the-input-addresssanitizer-stayed-quiet-f9fc9f8ab58c?source=rss-5f672468752e------2)
+- [Nibnib says 4bpp. The file still has a header.](https://panditshivam.medium.com/nibnib-says-4bpp-the-file-still-has-a-header-c82d0fea5123?source=rss-5f672468752e------2)
+- [HackerTube’s biggest recommendation choice happens before the feed](https://panditshivam.medium.com/hackertubes-biggest-recommendation-choice-happens-before-the-feed-aada2ae5e291?source=rss-5f672468752e------2)
+- [OmniDiff in scripts: a changed file can still exit successfully](https://panditshivam.medium.com/omnidiff-in-scripts-a-changed-file-can-still-exit-successfully-59f775f605bb?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
