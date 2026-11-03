@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [Defining revenue for an SQL agent, one row at a time](https://panditshivam.medium.com/defining-revenue-for-an-sql-agent-one-row-at-a-time-6d0db4ba4a25?source=rss-5f672468752e------2)
+- [A small temperature alarm in Toit 2.0](https://panditshivam.medium.com/a-small-temperature-alarm-in-toit-2-0-3fe171c2cdb0?source=rss-5f672468752e------2)
+- [What counts as feedback in weight-space programming?](https://panditshivam.medium.com/what-counts-as-feedback-in-weight-space-programming-ece09194f7e6?source=rss-5f672468752e------2)
 - [The smaller token bill can buy fewer working builds](https://panditshivam.medium.com/the-smaller-token-bill-can-buy-fewer-working-builds-d9b37b8d9598?source=rss-5f672468752e------2)
 - [My parser read past the input. AddressSanitizer stayed quiet.](https://panditshivam.medium.com/my-parser-read-past-the-input-addresssanitizer-stayed-quiet-f9fc9f8ab58c?source=rss-5f672468752e------2)
-- [Nibnib says 4bpp. The file still has a header.](https://panditshivam.medium.com/nibnib-says-4bpp-the-file-still-has-a-header-c82d0fea5123?source=rss-5f672468752e------2)
-- [HackerTube’s biggest recommendation choice happens before the feed](https://panditshivam.medium.com/hackertubes-biggest-recommendation-choice-happens-before-the-feed-aada2ae5e291?source=rss-5f672468752e------2)
-- [OmniDiff in scripts: a changed file can still exit successfully](https://panditshivam.medium.com/omnidiff-in-scripts-a-changed-file-can-still-exit-successfully-59f775f605bb?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
