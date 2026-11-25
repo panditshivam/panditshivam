@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
-- [Defining revenue for an SQL agent, one row at a time](https://panditshivam.medium.com/defining-revenue-for-an-sql-agent-one-row-at-a-time-6d0db4ba4a25?source=rss-5f672468752e------2)
-- [A small temperature alarm in Toit 2.0](https://panditshivam.medium.com/a-small-temperature-alarm-in-toit-2-0-3fe171c2cdb0?source=rss-5f672468752e------2)
-- [What counts as feedback in weight-space programming?](https://panditshivam.medium.com/what-counts-as-feedback-in-weight-space-programming-ece09194f7e6?source=rss-5f672468752e------2)
-- [The smaller token bill can buy fewer working builds](https://panditshivam.medium.com/the-smaller-token-bill-can-buy-fewer-working-builds-d9b37b8d9598?source=rss-5f672468752e------2)
-- [My parser read past the input. AddressSanitizer stayed quiet.](https://panditshivam.medium.com/my-parser-read-past-the-input-addresssanitizer-stayed-quiet-f9fc9f8ab58c?source=rss-5f672468752e------2)
+- [Before a Rust rewrite, stop adding cumulative profile times](https://panditshivam.medium.com/before-a-rust-rewrite-stop-adding-cumulative-profile-times-21bb96f37a03?source=rss-5f672468752e------2)
+- [Microduck’s controller has two clocks. Keep both in the logs.](https://panditshivam.medium.com/microducks-controller-has-two-clocks-keep-both-in-the-logs-6c38904af08a?source=rss-5f672468752e------2)
+- [Bonsai 2.5: count the packing bits before you budget memory](https://panditshivam.medium.com/bonsai-2-5-count-the-packing-bits-before-you-budget-memory-243801367f50?source=rss-5f672468752e------2)
+- [GPUI has a new repo. Check the package source before switching.](https://panditshivam.medium.com/gpui-has-a-new-repo-check-the-package-source-before-switching-a314eced4e5c?source=rss-5f672468752e------2)
+- [Test the grader before you trust the agent score](https://panditshivam.medium.com/test-the-grader-before-you-trust-the-agent-score-655079222dea?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
