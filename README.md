@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [A shared swarm reward cannot tell you who helped](https://panditshivam.medium.com/a-shared-swarm-reward-cannot-tell-you-who-helped-f038c0fbbcfc?source=rss-5f672468752e------2)
+- [What does a Parse throughput number actually include?](https://panditshivam.medium.com/what-does-a-parse-throughput-number-actually-include-4931453183a5?source=rss-5f672468752e------2)
+- [Two token rates, two different winners](https://panditshivam.medium.com/two-token-rates-two-different-winners-e3c9e120fcab?source=rss-5f672468752e------2)
 - [A correct research answer can come from the wrong files](https://panditshivam.medium.com/a-correct-research-answer-can-come-from-the-wrong-files-dca99f4a43b8?source=rss-5f672468752e------2)
 - [Speculative decoding changes how many experts touch memory](https://panditshivam.medium.com/speculative-decoding-changes-how-many-experts-touch-memory-87ee30abd4ad?source=rss-5f672468752e------2)
-- [Your voice agent found passages. Did it find the right ones?](https://panditshivam.medium.com/your-voice-agent-found-passages-did-it-find-the-right-ones-4f5cd250a9da?source=rss-5f672468752e------2)
-- [Before a Rust rewrite, stop adding cumulative profile times](https://panditshivam.medium.com/before-a-rust-rewrite-stop-adding-cumulative-profile-times-21bb96f37a03?source=rss-5f672468752e------2)
-- [Microduck’s controller has two clocks. Keep both in the logs.](https://panditshivam.medium.com/microducks-controller-has-two-clocks-keep-both-in-the-logs-6c38904af08a?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
