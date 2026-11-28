@@ -173,9 +173,9 @@ At **Code & Theory**, I lead the **India ML/AI engineering team**, combining han
 Notes on machine learning, generative AI, and the ideas behind the systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [Before adding another Iterator bound, check the compiler version](https://panditshivam.medium.com/before-adding-another-iterator-bound-check-the-compiler-version-965cd283e3db?source=rss-5f672468752e------2)
+- [Build the public graph from allowed fields](https://panditshivam.medium.com/build-the-public-graph-from-allowed-fields-08c1c6bdf6af?source=rss-5f672468752e------2)
+- [A cheap database branch still needs an isolation rule](https://panditshivam.medium.com/a-cheap-database-branch-still-needs-an-isolation-rule-757e70143ac7?source=rss-5f672468752e------2)
 - [A shared swarm reward cannot tell you who helped](https://panditshivam.medium.com/a-shared-swarm-reward-cannot-tell-you-who-helped-f038c0fbbcfc?source=rss-5f672468752e------2)
 - [What does a Parse throughput number actually include?](https://panditshivam.medium.com/what-does-a-parse-throughput-number-actually-include-4931453183a5?source=rss-5f672468752e------2)
-- [Two token rates, two different winners](https://panditshivam.medium.com/two-token-rates-two-different-winners-e3c9e120fcab?source=rss-5f672468752e------2)
-- [A correct research answer can come from the wrong files](https://panditshivam.medium.com/a-correct-research-answer-can-come-from-the-wrong-files-dca99f4a43b8?source=rss-5f672468752e------2)
-- [Speculative decoding changes how many experts touch memory](https://panditshivam.medium.com/speculative-decoding-changes-how-many-experts-touch-memory-87ee30abd4ad?source=rss-5f672468752e------2)
 <!-- BLOG-POST-LIST:END -->
